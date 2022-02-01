@@ -34,7 +34,8 @@
                     <img src="assets/newicon3_100.jpeg" width="50" height="50" alt=""/>
                     Futurecraft 
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle Navigation">
+                    
+                <button class="btn navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu" aria-expanded="false" aria-controls="navbarMenu">
                     <i class="bi bi-list"></i>
                     Menus
                 </button>
