@@ -39,8 +39,8 @@
                     <i class="bi bi-list"></i>
                     Menus
                 </button>
-                <div class="navbar-collapse collapse" id="navbarMenu">
-                    <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                <div class="navContainer">
+                    <ul class="collapse navbar-nav ms-auto me-4 my-3 my-lg-0" id="navbarMenu">
                         <li class="nav-item"><a class="nav-link active me-lg-3" href="">Shop</a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="">Contact</a></li>
                         <li class="nav-item"><a class="nav-link me-lg-3" href="">Top Up</a></li>
